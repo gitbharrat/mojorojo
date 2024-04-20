@@ -14,4 +14,4 @@ This is Branch A
 
 ---
 
-Branch A is offensive
+Branch A has taken offense from Branch B
