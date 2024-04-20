@@ -14,4 +14,4 @@ This is Branch A
 
 ---
 
-Offense taken by Branch B
+Branch A has taken offense from Branch B
